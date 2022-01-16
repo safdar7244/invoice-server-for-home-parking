@@ -29,6 +29,10 @@ app.post("/generate_invoice", async (req, res) => {
 
       console.log(req.body.address);
       console.log(result.xmlszamla.vevo[0].nev);
+      result.xmlszamla.fejlec[0].keltDatum = req.body.date;
+      result.xmlszamla.fejlec[0].teljesitesDatum = req.body.date;
+      result.xmlszamla.fejlec[0].fizetesiHataridoDatum = req.body.date;
+
       result.xmlszamla.vevo[0].nev = req.body.name;
       result.xmlszamla.vevo[0].irsz = req.body.zipCode;
       result.xmlszamla.vevo[0].telepules = req.body.city;
