@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlszamla xmlns="http://www.szamlazz.hu/xmlszamla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.szamlazz.hu/xmlszamla https://www.szamlazz.hu/szamla/docs/xsds/agent/xmlszamla.xsd">
+  <beallitasok>
+    <felhasznalo>TG</felhasznalo>
+    <jelszo>iubzbnrppcssb2pz2vgz8vjyw8b647wuknzhhf7kdh</jelszo>
+    <szamlaagentkulcs>iubzbnrppcssb2pz2vgz8vjyw8b647wuknzhhf7kdh</szamlaagentkulcs>
+    <eszamla>true</eszamla>
+    <szamlaLetoltes>true</szamlaLetoltes>
+    <valaszVerzio>1</valaszVerzio>
+    <aggregator/>
+    <szamlaKulsoAzon/>
+  </beallitasok>
+  <fejlec>
+    <keltDatum>2022-01-16</keltDatum>
+    <teljesitesDatum>2022-01-16</teljesitesDatum>
+    <fizetesiHataridoDatum>2022-01-16</fizetesiHataridoDatum>
+    <fizmod>Átutalás</fizmod>
+    <penznem>HUF</penznem>
+    <szamlaNyelve>hu</szamlaNyelve>
+    <megjegyzes>Invoce comment</megjegyzes>
+    <arfolyamBank>MNB</arfolyamBank>
+    <arfolyam>0.0</arfolyam>
+    <rendelesSzam/>
+    <dijbekeroSzamlaszam/>
+    <elolegszamla>false</elolegszamla>
+    <vegszamla>false</vegszamla>
+    <helyesbitoszamla>false</helyesbitoszamla>
+    <helyesbitettSzamlaszam/>
+    <dijbekero>false</dijbekero>
+    <szamlaszamElotag>TG</szamlaszamElotag>
+  </fejlec>
+  <elado>
+    <bank>BB</bank>
+    <bankszamlaszam>11111111-22222222-33333333</bankszamlaszam>
+    <emailReplyto/>
+    <emailTargy>Invoice notification</emailTargy>
+    <emailSzoveg>mail text</emailSzoveg>
+  </elado>
+  <vevo>
+    <nev>ahmad</nev>
+    <irsz>56000</irsz>
+    <telepules>lahore</telepules>
+    <cim>lasdjos inskdasj sjdasd</cim>
+    <email>moh.safdar2000@gmail.com</email>
+    <sendEmail>true</sendEmail>
+    <adoszam>12345678-1-42</adoszam>
+    <postazasiNev>Kovács Bt. mailing name</postazasiNev>
+    <postazasiIrsz>2040</postazasiIrsz>
+    <postazasiTelepules>Budaörs</postazasiTelepules>
+    <postazasiCim>Szivárvány utca 8.</postazasiCim>
+    <azonosito>1234</azonosito>
+    <telefonszam>Tel:+3630-555-55-55, Fax:+3623-555-555</telefonszam>
+    <megjegyzes>Call extension 214 from the reception</megjegyzes>
+  </vevo>
+  <fuvarlevel>
+    <uticel/>
+    <futarSzolgalat/>
+  </fuvarlevel>
+  <tetelek>
+    <tetel>
+      <megnevezes>Home Parking Parkolás</megnevezes>
+      <mennyiseg>3</mennyiseg>
+      <mennyisegiEgyseg>Óra</mennyisegiEgyseg>
+      <nettoEgysegar>60</nettoEgysegar>
+      <afakulcs>AAM</afakulcs>
+      <nettoErtek>180</nettoErtek>
+      <afaErtek>0</afaErtek>
+      <bruttoErtek>180</bruttoErtek>
+    </tetel>
+  </tetelek>
+</xmlszamla>
