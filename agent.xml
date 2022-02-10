@@ -14,10 +14,10 @@
     <keltDatum>2022-01-17</keltDatum>
     <teljesitesDatum>2022-01-17</teljesitesDatum>
     <fizetesiHataridoDatum>2022-01-17</fizetesiHataridoDatum>
-    <fizmod>Átutalás</fizmod>
+    <fizmod>Bankkártya</fizmod>
     <penznem>HUF</penznem>
     <szamlaNyelve>hu</szamlaNyelve>
-    <megjegyzes>Invoce comment</megjegyzes>
+    <megjegyzes></megjegyzes>
     <arfolyamBank>MNB</arfolyamBank>
     <arfolyam>0.0</arfolyam>
     <rendelesSzam/>
@@ -30,8 +30,8 @@
     <szamlaszamElotag>TG</szamlaszamElotag>
   </fejlec>
   <elado>
-    <bank>BB</bank>
-    <bankszamlaszam>11111111-22222222-33333333</bankszamlaszam>
+    <bank>Takarékbank</bank>
+    <bankszamlaszam>50453018-10003695</bankszamlaszam>
     <emailReplyto/>
     <emailTargy>Invoice notification</emailTargy>
     <emailSzoveg>mail text</emailSzoveg>
